@@ -7,7 +7,7 @@ Source0:	http://pyxmpp.jajcus.net/downloads/pyxmpp-%{version}.tar.gz
 Source1:	http://pyxmpp.jajcus.net/downloads/pyxmpp-%{version}.tar.gz.md5
 Group:		System/Libraries 
 License:	LGPLv2
-BuildRequires:	python-m2crypto dnspython python-libxml2 python-devel
+BuildRequires:	python-m2crypto dnspython python-libxml2 python-devel libxml2-devel
 Requires:	python-m2crypto dnspython python-libxml2 python
 %description
 PyXMPP is a Python XMPP (RFC 3920,3921) and Jabber implementation. It
