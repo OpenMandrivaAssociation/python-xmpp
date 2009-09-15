@@ -1,6 +1,6 @@
 Name:		python-xmpp
 Version:	1.0.0
-Release:	%mkrel 4
+Release:	%mkrel 5
 URL:		http://pyxmpp.jajcus.net/
 Summary:	Python Jabber/XMPP implementation
 Source0:	http://pyxmpp.jajcus.net/downloads/pyxmpp-%{version}.tar.gz
