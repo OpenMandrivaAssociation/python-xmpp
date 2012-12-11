@@ -51,3 +51,25 @@ Features
 %doc ChangeLog COPYING PKG-INFO README TODO examples doc
 %{py_platsitedir}/pyxmpp
 %{py_platsitedir}/pyxmpp-%{version}-*
+
+
+%changelog
+* Tue Sep 15 2009 Thierry Vignaud <tv@mandriva.org> 1.0.0-5mdv2010.0
++ Revision: 442549
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 1.0.0-4mdv2009.0
++ Revision: 259868
+- rebuild
+
+* Fri Jul 25 2008 Thierry Vignaud <tv@mandriva.org> 1.0.0-3mdv2009.0
++ Revision: 247742
+- rebuild
+- fix no-buildroot-tag
+- fix summary
+
+* Mon Nov 05 2007 Nicolas Vigier <nvigier@mandriva.com> 1.0.0-1mdv2008.1
++ Revision: 106192
+- import python-xmpp
+
+
