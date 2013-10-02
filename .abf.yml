@@ -1,2 +1,4 @@
+removed_sources:
+  pyxmpp-1.0.0.tar.gz: 6a8d88ed79153175698cd0ffc914ea37c3f526ce
 sources:
-  "pyxmpp-1.0.0.tar.gz": 6a8d88ed79153175698cd0ffc914ea37c3f526ce
+  pyxmpp-1.1.2.tar.gz: 4cfb72b1c7c834926981303b42243218016ff762

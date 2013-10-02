@@ -1,9 +1,9 @@
 Name:		python-xmpp
-Version:	1.0.0
-Release:	%mkrel 5
+Version:	1.1.2
+Release:	1
 URL:		http://pyxmpp.jajcus.net/
 Summary:	Python Jabber/XMPP implementation
-Source0:	http://pyxmpp.jajcus.net/downloads/pyxmpp-%{version}.tar.gz
+Source0:	http://github.com/downloads/Jajcus/pyxmpp/pyxmpp-%{version}.tar.gz
 Source1:	http://pyxmpp.jajcus.net/downloads/pyxmpp-%{version}.tar.gz.md5
 Group:		System/Libraries 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
@@ -71,5 +71,6 @@ Features
 * Mon Nov 05 2007 Nicolas Vigier <nvigier@mandriva.com> 1.0.0-1mdv2008.1
 + Revision: 106192
 - import python-xmpp
+
 
 
